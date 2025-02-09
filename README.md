@@ -7,6 +7,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 Instructions for Local Installation
 These instructions explain how to set up the project on your local machine.
 
@@ -57,4 +60,6 @@ Dependency Problems: If npm install has failed, read the error messages closely.
 Port Conflict: If the default port, for example 3000, is being used by another program, the project won't start. Check the project documentation for how to configure a different port.
 
 Consult Project Documentation: Always refer to the project's README file or other documentation for specific instructions. These general guidelines might not perfectly match every project's setup
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
