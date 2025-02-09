@@ -59,7 +59,7 @@ Dependency Problems: If npm install has failed, read the error messages closely.
 
 Port Conflict: If the default port, for example 3000, is being used by another program, the project won't start. Check the project documentation for how to configure a different port.
 
-Consult Project Documentation: Always refer to the project's README file or other documentation for specific instructions. These general guidelines might not perfectly match every project's setup
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
