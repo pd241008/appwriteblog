@@ -51,15 +51,6 @@ Bash
 npm run dev
 This command, defined in the project's package.json file, starts the local development server. The terminal output will typically display the URL where you can access the running application (e.g., http://localhost:3000). Open this URL in your web browser to view the application.
 
-Troubleshooting:
-
-npm not found: If you get an error saying that npm is not recognized, you need to install Node.js and npm on your system. Download and install them from https://nodejs.org/.
-
-Dependency Problems: If npm install has failed, read the error messages closely. You may have to update npm, clear your npm cash, or install specific dependencies manually.
-
-Port Conflict: If the default port, for example 3000, is being used by another program, the project won't start. Check the project documentation for how to configure a different port.
-
-
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
